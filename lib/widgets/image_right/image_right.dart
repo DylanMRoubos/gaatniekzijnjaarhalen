@@ -6,7 +6,7 @@ class ImageRight extends StatelessWidget {
     return Container(
       width: 600,
       child: SizedBox(
-        child: Image.asset('images/meme.jpg'),
+        child: Image.network('assets/assets/meme.jpg'),
       ),
     );
   }
