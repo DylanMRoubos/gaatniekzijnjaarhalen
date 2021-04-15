@@ -20,7 +20,7 @@ class LeftText extends StatelessWidget {
             height: 30,
           ),
           Text(
-            'Nee grapje niek, liefde van Lawrence en Dylan 😘',
+            'Nee grapje Niek, liefde van Lawrence en Dylan 😘',
             style: TextStyle(fontSize: 21, height: 1.7),
           ),
         ],
