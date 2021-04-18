@@ -12,7 +12,7 @@ class LeftText extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Text(
-            'GAAT NIEK ZIJN \nJAAR HALEN?',
+            'GAAT NIEK ZIJN \nJAAR HALEN??',
             style: TextStyle(
                 fontWeight: FontWeight.w700, fontSize: 70, height: 0.9),
           ),
